@@ -11,8 +11,6 @@ st.set_page_config(
     layout="centered",  # Page layout option
 )
 
-#set up speech recognition
-
 
 # Set up Google Gemini-Pro AI model
 API_KEY = 'AIzaSyC8CZAEdLqtYNc5LfnHRUAicw8ziuxiPlk'
